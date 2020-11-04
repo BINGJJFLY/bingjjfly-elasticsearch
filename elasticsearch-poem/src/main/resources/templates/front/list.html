@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <title>Good Thymes Virtual Grocery</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+
+<body>
+
+<h1>Product list</h1>
+
+<table>
+    <tr>
+        <th>name</th>
+        <th>author</th>
+        <th>category</th>
+    </tr>
+    <tr th:each="poem : ${poems}">
+        <td th:text="${poem.name}">Onions</td>
+        <td th:text="${poem.author}">Onions</td>
+        <td th:text="${poem.category}">Onions</td>
+    </tr>
+</table>
+
+<p>
+    <a href="../home.html" th:href="@{/}">Return to home</a>
+</p>
+
+</body>
+
+</html>

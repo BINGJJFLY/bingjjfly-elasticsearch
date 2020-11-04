@@ -1,0 +1,10 @@
+com\wjz\es\domain\Category.class
+com\wjz\es\mapper\CategoryMapper.class
+com\wjz\es\mapper\PoemMapper.class
+com\wjz\es\domain\PoemRepository.class
+com\wjz\es\controller\FrontController.class
+com\wjz\es\domain\Poem.class
+com\wjz\es\PoemApplication.class
+com\wjz\es\controller\PoemController.class
+com\wjz\es\controller\CategoryController.class
+com\wjz\es\controller\IkInitDicController.class

@@ -1,0 +1,10 @@
+D:\GitProjects\bingjjfly-projects\elasticsearch-poem\src\main\java\com\wjz\es\mapper\CategoryMapper.java
+D:\GitProjects\bingjjfly-projects\elasticsearch-poem\src\main\java\com\wjz\es\domain\Category.java
+D:\GitProjects\bingjjfly-projects\elasticsearch-poem\src\main\java\com\wjz\es\mapper\PoemMapper.java
+D:\GitProjects\bingjjfly-projects\elasticsearch-poem\src\main\java\com\wjz\es\controller\PoemController.java
+D:\GitProjects\bingjjfly-projects\elasticsearch-poem\src\main\java\com\wjz\es\PoemApplication.java
+D:\GitProjects\bingjjfly-projects\elasticsearch-poem\src\main\java\com\wjz\es\domain\Poem.java
+D:\GitProjects\bingjjfly-projects\elasticsearch-poem\src\main\java\com\wjz\es\domain\PoemRepository.java
+D:\GitProjects\bingjjfly-projects\elasticsearch-poem\src\main\java\com\wjz\es\controller\FrontController.java
+D:\GitProjects\bingjjfly-projects\elasticsearch-poem\src\main\java\com\wjz\es\controller\IkInitDicController.java
+D:\GitProjects\bingjjfly-projects\elasticsearch-poem\src\main\java\com\wjz\es\controller\CategoryController.java

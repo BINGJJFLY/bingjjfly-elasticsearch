@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5cd5695-c3a6-457d-9ca5-2965f6955695" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\MavenRepository" />
+        <option name="mavenHome" value="D:\apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\Softwares\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jlITx1QSIeLAmPxa08BoFKw8ly" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates/front" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitProjects\bingjjfly-projects\elasticsearch-poem\src\main\resources\templates\front" />
+      <recent name="D:\GitProjects\bingjjfly-projects\elasticsearch-poem\src\main\resources\templates\ikinitdic" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitProjects\bingjjfly-projects\elasticsearch-poem\src\main\resources\static" />
+      <recent name="D:\GitProjects\bingjjfly-projects\elasticsearch-poem\src\main\resources\templates\poem" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FrontController">
+    <configuration name="FrontController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjz.es.controller.FrontController" />
+      <module name="elasticsearch-poem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjz.es.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IkInitDicController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjz.es.controller.IkInitDicController" />
+      <module name="elasticsearch-poem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjz.es.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PoemApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wjz.es.PoemApplication" />
+      <module name="elasticsearch-poem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjz.es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PoemApplication" />
+        <item itemvalue="Application.FrontController" />
+        <item itemvalue="Application.IkInitDicController" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5cd5695-c3a6-457d-9ca5-2965f6955695" name="Default Changelist" comment="" />
+      <created>1604372264810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604372264810</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="242" y="286" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1604389654587">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="242" y="286" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1604389654587" />
+    <state width="432" height="465" key="DebuggerActiveHint" timestamp="1604478224459">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="432" height="465" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1604478224459" />
+    <state width="1323" height="236" key="GridCell.Tab.0.bottom" timestamp="1604482476975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="236" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604482476975" />
+    <state width="1323" height="236" key="GridCell.Tab.0.center" timestamp="1604482476975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="236" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604482476975" />
+    <state width="1323" height="236" key="GridCell.Tab.0.left" timestamp="1604482476975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="236" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604482476975" />
+    <state width="1323" height="236" key="GridCell.Tab.0.right" timestamp="1604482476975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="236" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604482476975" />
+    <state width="1323" height="236" key="GridCell.Tab.1.bottom" timestamp="1604482476976">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="236" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604482476976" />
+    <state width="1323" height="236" key="GridCell.Tab.1.center" timestamp="1604482476975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="236" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1604482476975" />
+    <state width="1323" height="236" key="GridCell.Tab.1.left" timestamp="1604482476975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="236" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1604482476975" />
+    <state width="1323" height="236" key="GridCell.Tab.1.right" timestamp="1604482476975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="236" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1604482476975" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1604390357671">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604390357671" />
+    <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1604478224448">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1604478224448" />
+    <state x="475" y="222" key="scopes" timestamp="1604395765881">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="475" y="222" key="scopes/0.0.1366.728@0.0.1366.728" timestamp="1604395765881" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604459549032">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604459549032" />
+  </component>
+</project>
